@@ -1,4 +1,5 @@
-name: workout_tracker_gwanak
+
+ name: workout_tracker_gwanak
 description: "sesac gwanak flutter practice project"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

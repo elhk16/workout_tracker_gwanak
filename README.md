@@ -1,6 +1,8 @@
 # workout_tracker_gwanak
 
-this is workout_tracker_remote_copy
+sesac gwanak flutter practice project
 
-first modification 
+## Getting Started
+
+This project is a starting point for a Flutter application.
 
